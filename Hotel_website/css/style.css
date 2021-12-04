@@ -59,9 +59,12 @@ p{
     color: #333;
 }
 .bg-primary{
-    background: #333;
-    color: #f7c08a;
+    color: #333;
+    background: #f7c08a;
    
+}
+.clr{
+    clear: both;
 }
 
 /* Utility CLasses */
@@ -147,3 +150,25 @@ p{
 }
 
 /* Home Info */
+
+
+/* Features */
+.box{
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+.box i{
+    margin-bottom: 10px;
+}
+/* Features */
+
+/* Footer */
+#main-footer{
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
+}   
+/* Footer */
